@@ -1,5 +1,7 @@
 # React Native Circle Avatar
 
+React Native Framework for crop and make circle avatar
+
 ```bash
 npm i --legacy-peer-deps
 ```
